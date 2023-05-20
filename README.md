@@ -1,3 +1,3 @@
 # rainyroute
 Flutter mobile application for travel route planning and analysis with  meteorological data
-![main_screen](https://github.com/ArturMartynovych/rainyroute/tree/main/assets/images/glowny_ekran.png?raw=true)
+![glowny_ekran](https://github.com/ArturMartynovych/rainyroute/assets/59308583/0f15860a-cccd-4acd-b3ba-86362a4b6f2b)
